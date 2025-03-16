@@ -25,7 +25,7 @@ namespace DataGenericExample
     {
         static void Main(string[] args)
         {
-            DataGeneric<int> data = new DataGeneric<int>(123456789);
+            DataGeneric<long> data = new DataGeneric<long>(103022300107);
 
             data.PrintData();
 
